@@ -7,8 +7,8 @@ java项目脚手架
   * common-mvc
   * common-config
 * [auto-transmitter](auto-transmitter/readme.md) 微服务之间调用时,自动传输所需对象
-* spring-boot-starter-amqp-plus spring-amqp增强
-* xxl-job-spring-boot-starter xxl-job自动装配和增强
+* [spring-boot-starter-amqp-plus](/spring-boot-starter-amqp-plus/readme.md) spring-amqp增强
+* [xxl-job-spring-boot-starter](xxl-job-spring-boot-starter/README.md) xxl-job自动装配和增强
 
 后续更新
 * spring版本升级
